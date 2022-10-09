@@ -5,7 +5,7 @@ This is a number guessing game where users get 5 attempts to guess a number. Aft
 
 
 Once the installation is complete.
-Navigate to the repository folder with `simpleCalculator.cpp` file and launch command prompt.
+Navigate to the repository folder with 'game.py' file and launch command prompt.
 
 
 ### About Calculator
